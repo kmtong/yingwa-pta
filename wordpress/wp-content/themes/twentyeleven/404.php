@@ -9,6 +9,7 @@
 
 get_header(); ?>
 
+<div id="testing">testing</div>
 	<div id="primary">
 		<div id="content" role="main">
 
